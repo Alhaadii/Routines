@@ -1,1 +1,2 @@
-#My Routines
+#Routines 
+- Memorizing The Holly Koran 
