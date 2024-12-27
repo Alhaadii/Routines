@@ -1,4 +1,5 @@
 # Routines 
-- ## Memorizing The Holly Koran 
-1. January 5 juz
-2. buildign Mern Stack full Project 
+- ## Reading The Holly Koran
+- ## practicing atleast one hour of codding
+- - Not the programming and codding of the work
+  - self learning code.
